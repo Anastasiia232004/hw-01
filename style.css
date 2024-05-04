@@ -121,7 +121,7 @@ input {
 
 /*Banner*/
 #banner-section {
-  background: url(images/home.png) 50% 0% / cover no-repeat;
+  background: url(images/home.png) 100% 100% / cover no-repeat;
 }
 .banner {
   display: flex;
